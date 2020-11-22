@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/exerciseTracker/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/exerciseTracker/static/js/main.41355803.chunk.js",
-    "main.js.map": "/exerciseTracker/static/js/main.41355803.chunk.js.map",
+    "main.js": "/exerciseTracker/static/js/main.8a0cbb00.chunk.js",
+    "main.js.map": "/exerciseTracker/static/js/main.8a0cbb00.chunk.js.map",
     "runtime-main.js": "/exerciseTracker/static/js/runtime-main.4ed34bf3.js",
     "runtime-main.js.map": "/exerciseTracker/static/js/runtime-main.4ed34bf3.js.map",
     "static/css/2.be2863b7.chunk.css": "/exerciseTracker/static/css/2.be2863b7.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.be2863b7.chunk.css",
     "static/js/2.9399306e.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.41355803.chunk.js"
+    "static/js/main.8a0cbb00.chunk.js"
   ]
 }
