@@ -18,9 +18,7 @@ mongoose.connect(uri, { useNewUrlParser: true, useCreateIndex: true }
 );
 const connection = mongoose.connection;
 
-if (process.env.NODE_ENV === 'production') {
-  app.use(express.static('client/build'));
-}
+
 
 connection.once('open', () => {
   console.log("MongoDB database connection established successfully");
